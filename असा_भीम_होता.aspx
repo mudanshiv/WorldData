@@ -1,4 +1,5 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/lyrics.Master" AutoEventWireup="true" CodeBehind="असा_भीम_होता.aspx.cs" Inherits="worlddemo.WebForm12" %>
+﻿jai bhim
+<%@ Page Title="" Language="C#" MasterPageFile="~/lyrics.Master" AutoEventWireup="true" CodeBehind="असा_भीम_होता.aspx.cs" Inherits="worlddemo.WebForm12" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
      <h2> स्तूप</h2>  
 जेथे समाज सारा हा एकरूप आहे,<br />
